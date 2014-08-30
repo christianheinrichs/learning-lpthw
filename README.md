@@ -26,22 +26,22 @@ Exercise 3: Numbers and Math
 
 Exercise 4: Variables And Names
 - Exercise 4 - [ex4.py](ex4/ex4.py)
-- Exercise 4 Study Drill 0 - [ex4-sd0.py](ex4/ex4-sd0.py)
+- Exercise 4 Study Drill 0 - [ex4-sd0.py](ex4/ex4-sd0.md)
 - Exercise 4 Study Drill 3 - [ex4-sd3.py](ex4/ex4-sd3.py)
 
 Exercise 5: More Variables and Printing
 - Exercise 5 - [ex5.py](ex5/ex5.py)
 - Exercise 5 Study Drill 1 - [ex5-sd1.py](ex5/ex5-sd1.py)
 - Exercise 5 Study Drill 2 - [ex5-sd2.py](ex5/ex5-sd2.py)
-- Exercise 5 Study Drill 3 - [ex5-sd3.py](ex5/ex5-sd3.py)
+- Exercise 5 Study Drill 3 - [ex5-sd3.py](ex5/ex5-sd3.md)
 - Exercise 5 Study Drill 4 - [ex5-sd4.py](ex5/ex5-sd4.py)
 
 Exercise 6: Strings and Text
 - Exercise 6 - [ex6.py](ex6/ex6.py)
 - Exercise 6 Study Drill 1 - [ex6-sd1.py](ex6/ex6-sd1.py)
-- Exercise 6 Study Drill 2 - [ex6-sd2.py](ex6/ex6-sd2.py)
-- Exercise 6 Study Drill 3 - [ex6-sd3.py](ex6/ex6-sd3.py)
-- Exercise 6 Study Drill 4 - [ex6-sd4.py](ex6/ex6-sd4.py)
+- Exercise 6 Study Drill 2 - [ex6-sd2.py](ex6/ex6-sd2.md)
+- Exercise 6 Study Drill 3 - [ex6-sd3.py](ex6/ex6-sd3.md)
+- Exercise 6 Study Drill 4 - [ex6-sd4.py](ex6/ex6-sd4.md)
 
 Exercise 7: More Printing
 - Exercise 7 - [ex7.py](ex7/ex7.py)

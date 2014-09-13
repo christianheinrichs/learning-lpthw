@@ -5,8 +5,9 @@ This is my learning diary for the Python book [`Learn Python The Hard Way`](http
 
 08/06/2014 - Began reading the book, read until exercise 4
 08/07/2014 - Continuing from exercise 4, ended the day with exercise 9
+09/13/2014 - Returned to reading the book. Continued until exercise 14
 
-Exercise index:
+Exercise index
 
 Exercise 1: A Good First Program
 - Exercise 1 - [ex1.py](ex1/ex1.py)
@@ -52,4 +53,29 @@ Exercise 8: Printing, Printing
 - Exercise 8 Study Drill 2 - [ex8-sd2.md](ex8/ex8-sd2.md)
 
 Exercise 9: Printing, Printing, Printing
-- Exercise 9 - [ex9.py](ex9/ex9.py)
+- Exercise 9 - [ex9.py](ex9/ex9.py)a
+
+
+Exercise 10: What Was That?
+- Exercise 10 - [ex10.py](ex10/ex10.py)
+- Exercise 10 Study Drill 3 - [ex10-sd3.py](ex10/ex10-sd3.py)
+- Exercise 10 Study Drill 4 - [ex10-sd4.py](ex10/ex10-sd4.py)
+
+Exercise 11: Asking Questions
+- Exercise 11 - [ex11.py](ex11/ex11.py)
+- Exercise 11 Study Drill 3 - [ex11-sd3.py](ex11/ex11-sd3.py)
+
+Exercise 12: Prompting People
+- Exercise 12 - [ex12.py](ex12/ex12.py)
+
+Exercise 13: Parameters, Unpacking, Variables
+- Exercise 13 - [ex13.py](ex13/ex13.py)
+- Exercise 13 Study Drill 1 - [ex13-sd1.md](ex13/ex13-sd1.md)
+- Exercise 13 Study Drill 2 with fewer arguments - [ex13-sd2-fewer.py](ex13/ex13-sd2-fewer.py)
+- Exercise 13 Study Drill 2 with more arguments - [ex13-sd2-more.py](ex13/ex13-sd2-more.py)
+- Exercise 13 Study Drill 3 - [ex13-sd3.py](ex13/ex13-sd3.py)
+
+Exercise 14: Prompting and Passing
+- Exercise 14 - [ex14.py](ex14/ex14.py)
+- Exercise 14 Study Drill 2 - [ex14-sd2.py](ex14/ex14-sd2.py)
+- Exercise 14 Study Drill 3 - [ex14-sd3.py](ex14/ex14-sd3.py)

@@ -3,11 +3,9 @@ learning-lpthw
 
 This is my learning diary for the Python book [`Learn Python The Hard Way`](http://learnpythonthehardway.org/book/)
 
-08/06/2014 - Began reading the book, read until exercise 4
-08/07/2014 - Continuing from exercise 4, ended the day with exercise 9
+08/06/2014 - Began reading the book, read until exercise 4  
+08/07/2014 - Continuing from exercise 4, ended the day with exercise 9  
 09/13/2014 - Returned to reading the book. Continued until exercise 14
-
-Exercise index
 
 Exercise 1: A Good First Program
 - Exercise 1 - [ex1.py](ex1/ex1.py)
@@ -53,8 +51,7 @@ Exercise 8: Printing, Printing
 - Exercise 8 Study Drill 2 - [ex8-sd2.md](ex8/ex8-sd2.md)
 
 Exercise 9: Printing, Printing, Printing
-- Exercise 9 - [ex9.py](ex9/ex9.py)a
-
+- Exercise 9 - [ex9.py](ex9/ex9.py)
 
 Exercise 10: What Was That?
 - Exercise 10 - [ex10.py](ex10/ex10.py)

@@ -15,6 +15,6 @@ print "Actually that's not too heavy."
 print "He's got %r eyes and %r hair." % (my_eyes, my_hair)
 print "His teeth are usually %r depending on the coffee." % my_teeth
 
-# This line is tricky, try to get it exactly irght
+# This line is tricky, try to get it exactly right
 print "If I add %r, %r, and %r I get %r." % (
     my_age, my_height, my_weight, my_age + my_height + my_weight)

@@ -6,8 +6,8 @@ x = "There are %d types of people." % 10
 binary = "binary"
 # Assign the string "don't" to the variable "do_not"
 do_not = "don't"
-# Store the sentence "Those who know binaryand those who don't"
-# in the variable y
+# Store the sentence "Those who know binary and those who don't" in the
+# variable y
 y = "Those who know %s and those who %s." % (binary, do_not)
 
 # Print the content of variable x
@@ -22,8 +22,8 @@ print "I also said: '%s'." % y
 
 # Store the boolean value False in the variable "hilarious"
 hilarious = False
-# Store the String "Isn't that joke so funny?!"
-# in the variable "joke_evaluation"
+# Store the String "Isn't that joke so funny?!" in the variable
+# "joke_evaluation"
 joke_evaluation = "Isn't that joke so funny?! %r"
 
 # Print out "Isn't that joke so funny?! False" by assigning the %r character

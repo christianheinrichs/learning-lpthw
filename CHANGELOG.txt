@@ -1,0 +1,43 @@
+Version 6.8.2014
+- First commit
+
+Version 6.8.2014-r2
+- Create better organised folder structure
+- Modify README
+
+Version 6.8.2014-r3
+- Minor README tweaks
+
+Version 30.8.2014-r1
+- Add solutions from exercise 4-9
+
+Version 30.8.2014-r2
+- Correct Markdown file extension in README
+
+Version 30.8.2014-r3
+- Correct link descriptions
+
+Version 13.9.2014-r1
+- Add solutions of exercises 10-14C
+
+Version 13.9.2014-r2
+- Correct README
+- Fix folder sorting by number
+
+Version 27.9.2014
+- Add solutions for exercises 15-20
+- Correct typos regarding the new folder name format
+
+Version 7.10.2019-r1
+- Ignore .swp files
+- Convert US date format to UK date format
+- Make all Python scripts executable
+- Correct grammatical errors
+
+Version 7.10.2019-r2
+- Fix Markdown formatting
+
+Version 12.5.2022
+- Add plaintext README file
+- Add changelog
+- Update date format

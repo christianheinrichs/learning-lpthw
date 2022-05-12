@@ -3,10 +3,10 @@ learning-lpthw
 
 This is my learning diary for the Python book [`Learn Python The Hard Way`](http://learnpythonthehardway.org/book/)
 
-06/08/2014 - Began reading the book, read until exercise 4  
-07/08/2014 - Continuing from exercise 4, ended the day with exercise 9  
-13/09/2014 - Returned to reading the book. Continued until exercise 14  
-27/09/2014 - Read until chapter 21
+6 August 2014 - Began reading the book, read until exercise 4  
+7 August 2014 - Continuing from exercise 4, ended the day with exercise 9  
+13 September 2014 - Returned to reading the book. Continued until exercise 14  
+27 September 2014 - Read until chapter 21
 
 Exercise 1: A Good First Program
 - Exercise 1 - [ex1.py](ex01/ex1.py)

@@ -37,7 +37,10 @@ Version 7.10.2019-r1
 Version 7.10.2019-r2
 - Fix Markdown formatting
 
-Version 12.5.2022
+Version 12.5.2022-r1
 - Add plaintext README file
 - Add changelog
 - Update date format
+
+Version 12.5.2022-r2
+- Add licensing notice

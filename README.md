@@ -112,3 +112,7 @@ Exercise 20: Functions And Files
 - Exercise 20 Study Drill 1 - [ex20-sd1.py](ex20/ex20-sd1.py)
 - Exercise 20 Study Drill 2 - [ex20-sd2.py](ex20/ex20-sd2.py)
 - Exercise 20 Study Drill 5 - [ex20-sd5.py](ex20/ex20-sd5.py)
+
+#### Licensing
+This project is licensed under the GNU GPL 3.0 license. To read it, please
+refer to the [LICENSE](LICENSE) document.
